@@ -1,0 +1,19 @@
+site_name: Millenium Papelaria e Presentes
+
+theme:
+  name: 'material'
+  logo: 'images/logo.png'
+  favicon: 'images/logo.png'
+  language: 'pt'
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Sobre: index.md
+  - Planejamento: 
+    - Escolha do site: 'planejamento/site.md'
+    - Processo de design: 'planejamento/design.md'
+    - Metodologias: 'planejamento/metodologias.md'
+    - Cronograma: 'planejamento/cronograma.md'    
+    - Ferramentas Utilizadas: 'planejamento/ferramentas.md'
