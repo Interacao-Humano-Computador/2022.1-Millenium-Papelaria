@@ -10,7 +10,7 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Sobre: index.md
+  - Início: index.md
   - Planejamento: 
     - Escolha do site: 'planejamento/site.md'
     - Processo de design: 'planejamento/design.md'
