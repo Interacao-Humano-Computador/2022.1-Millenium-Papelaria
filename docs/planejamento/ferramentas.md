@@ -14,7 +14,7 @@ Neste documento estão apresentados as plataformas que estão sendo ou que serã
 
 ## 2. Histórico de versão
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 07/07/2022 | Criação do documento | Ingrid Carvalho |
-
+| Versão | Data       | Descrição             | Autor           | Revisor |
+| ------ | ---------- | --------------------- | ------------    |---------|
+| 0.1    | 07/07/2022 | Criação do documento  | Ingrid Carvalho | 	Arthur Henrique |
+  
