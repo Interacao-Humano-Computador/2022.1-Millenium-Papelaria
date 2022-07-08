@@ -3,8 +3,8 @@
 ## 1. Introdução
 Neste documento estão apresentados as plataformas que estão sendo ou que serão ultilizadas no auxilio da criação e edição do presente trabalho seja para a existencia ou apresentação das tarefas realizadas pela equipe.
 
-| Logo | Ferramenta | Finalidade | |
-| :------: | :----------: | :-------------:| :---------------------------------------------------: |
+| Logo | Ferramenta | Finalidade | 
+| :------: | :----------: | :-------------:| 
 | ![drawing](../images/ferramentas/logoteams.png) | Teams | Reuniões e gravação das apresentações|
 | ![drawing](../images/ferramentas/discordlogo.png) | Discord | Reuniões da equipe para organização das tarefas |
 | ![drawing](../images/ferramentas/githublogo.png) | Github | Hospedagem do repositório do projeto |
@@ -14,10 +14,7 @@ Neste documento estão apresentados as plataformas que estão sendo ou que serã
 
 ## 2. Histórico de versão
 
-<center>
-
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 07/07/2022 | Criação do documento | Ingrid Carvalho |
 
-</center>
