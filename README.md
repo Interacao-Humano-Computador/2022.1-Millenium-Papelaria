@@ -8,7 +8,7 @@ Esse repositório é destinado ao grupo 6 da disciplina de Interação Humano-Co
 
 Projeto foi realizado na unidade do Gama (FGA) durante o periodo de 2022.1
 
-Link para acesso à wiki: [https://requisitos-de-software.github.io/2022.1-DetranDF/](https://requisitos-de-software.github.io/2022.1-DetranDF/)
+Link para acesso à wiki: [https://interacao-humano-computador.github.io/2022.1-Millenium-Papelaria/](https://interacao-humano-computador.github.io/2022.1-Millenium-Papelaria/)
 
 # Contribuidores
 <center>
