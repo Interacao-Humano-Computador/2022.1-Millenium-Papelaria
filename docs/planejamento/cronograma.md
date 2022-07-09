@@ -1,4 +1,31 @@
-# Cronograma Específico
+# Cronograma 
+
+O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Interação Humano Computador. 
+
+Este documento apresenta o cronograma geral das atividades e o cronograma de cada ponto de controle, com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
+
+# Cronograma Geral das Atividades 
+
+| Data | Atividade | 
+| ---------- | ------ | 
+| 11/07/2022 | **Entrega da apresentação do projeto etapa 1:** Planejamento do Projeto, equipe, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades. |
+| 12/07/2022 | **Apresentação do projeto etapa 1:** planejamento do projeto e do Processo de Design. |
+| 20/07/2022 | **Entrega da apresentação do projeto etapa 2:** Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas e Análise de tarefas. |
+| 21/07/2022 | **Apresentação do projeto etapa 2:** Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas, Personas e Análise de tarefas. |
+| 01/08/2022 | **Entrega da apresentação do projeto etapa 3:** Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos). |
+| 02/08/2022 | **Apresentação do projeto etapa 3:** Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos). |
+| 11/08/2022 | **Entrega da apresentação do projeto etapa 4:** Planejamento da Avaliação do Storyboard, o planejamento do relato dos resultados da avaliação do Storyboard, Planejamento da Avaliação do Análise de tarefas e o planejamento do relato dos resultados da avaliação do Análise de tarefas. |
+| 12/08/2022 | **Apresentação do projeto etapa 4:** Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas. |
+| 17/08/2022 | **Entrega da apresentação do projeto 5:** Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel. |
+| 18/08/2022 | **Apresentação do projeto etapa 5:** Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel. |
+| 22/08/2022 | **Entrega da apresentação do projeto 6:** Verificação dos artefatos. |
+| 23/08/2022 | **Apresentação do projeto etapa 6:** Verificação dos artefatos |
+| 05/09/2022 | **Entrega da apresentação do projeto 7:** Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade. |
+| 06/09/2022 | **Apresentação do projeto etapa 7:** Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade. |
+| 12/09/2022 | **Entrega da apresentação do projeto final.** |
+
+
+# Cronograma do 1º Ponto de Controle 
 
 | Data | Atividade | Responsáveis | Revisores
 | ---------- | ------ | -----------------------| --------------------------------------- |
@@ -13,6 +40,11 @@
 | 09/07/2022 | Revisão e entrega da gravação | Todos | Todos |
 | 10/07/2022 | Envio | Arthur | Todos |
 
+# Histórico de versões
 
+| Versão | Data       | Descrição             | Autor           | 
+| ------ | ---------- | --------------------- | ------------    |
+| 1.0    | 05/07/2022 | Criação do documento  | Maria Eduarda B. | 
+| 1.1  | 08/07/2022 | Adicionando informações sobre o cronograma | Maria Eduarda M. | 
 
 
