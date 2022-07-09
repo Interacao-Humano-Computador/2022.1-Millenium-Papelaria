@@ -1,10 +1,5 @@
 # Sites avaliados
 
-## Histórico de Revisão
-| Data       | Versão | Descrição  | Autor     |
-| ---------- | ------ | ---------- | --------- |
-| 08/07/2022 | 0.1    | Desenvolvimento da documentação do site selecionado para o projeto | Maria Barbosa |
-
 ## 1. Introdução
 A escolha do site foi definida após uma seleção de sites que foram avaliados com o método de avaliação heurística. Nessa seleção foi observado o contexto e quais das propostas heurísticas de Nielsen foram violadas em cada site, com o intuito de obter a melhor escolha para ser trabalhada no projeto de IHC. 
 
@@ -44,6 +39,12 @@ Com a avaliação heurística, os empecilhos encontrados foram a falta de precif
 Ao que se propõe o site Acotar Brasil garante qualidade, deixando a desejar no quesito intuitividade, pois nem todas as informações são fáceis de identificar. No site do MPU, tem poucas informações além de ser confuso. No site Millenium papelaria e presentes, foge do comum, com funcionalidade que induz ao erro sem prevenção e nem informação de como resolver, há vendas de produtos sem preço e funcionalidade simples de adicionar o produto no carrinho que é usufruída para apenas os cadastrados com exigência de dados sigilosos.
 
 Portanto, o site escolhido é o Millenium papelaria e presentes. O motivo da escolha, foi por apresentar mais violações nas propostas heurísticas e por conseguinte é notório um maior volume de problemas encontrados em comparação aos outros sites selecionados para a avaliação. 
+
+## 5. Histórico de versão
+
+| Versão    | Data | Descrição                 |         Autor | Revisor |
+|-----------|------|---------------------------|---------------|---------|
+| 0.1 | 08/07 | Criação da documentação do site selecionado para o projeto | Maria Eduarda B. | Maria Eduarda M. |
 
 ### Referências
 
