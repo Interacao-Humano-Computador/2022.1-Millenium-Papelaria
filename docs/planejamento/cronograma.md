@@ -1,10 +1,12 @@
 # Cronograma 
 
+## 1. Introdução
+
 O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Interação Humano Computador. 
 
 Este documento apresenta o cronograma geral das atividades e o cronograma de cada ponto de controle, com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
 
-# Cronograma Geral das Atividades 
+## 2. Cronograma Geral das Atividades 
 
 | Data | Atividade | 
 | ---------- | ------ | 
@@ -25,7 +27,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 | 12/09/2022 | **Entrega da apresentação do projeto final.** |
 
 
-# Cronograma do 1º Ponto de Controle 
+## 3. Cronograma do 1º Ponto de Controle 
 
 | Data | Atividade | Responsáveis | Revisores
 | ---------- | ------ | -----------------------| --------------------------------------- |
@@ -40,11 +42,12 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 | 09/07/2022 | Revisão e entrega da gravação | Todos | Todos |
 | 10/07/2022 | Envio | Arthur | Todos |
 
-# Histórico de versões
+## 4. Histórico de versões
 
-| Versão | Data       | Descrição             | Autor           | 
-| ------ | ---------- | --------------------- | ------------    |
-| 1.0    | 05/07/2022 | Criação do documento  | Maria Eduarda B. | 
-| 1.1  | 08/07/2022 | Adicionando informações sobre o cronograma | Maria Eduarda M. | 
+| Versão | Data       | Descrição             | Autor           | Revisor |
+| ------ | ---------- | --------------------- | ------------    |---------|
+| 1.0    | 05/07/2022 | Criação do documento  | Maria Eduarda B. | Maria Eduarda M. |
+| 1.1  | 08/07/2022 | Adicionando informações sobre o cronograma | Maria Eduarda M. | Maria Eduarda B. |
+
 
 
