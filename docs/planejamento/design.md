@@ -12,7 +12,7 @@ Essas atividades buscam detalhar de forma diferente e define como executar cada 
 
 ## 2. Metodologia escolhida
 
-Após a analise desse processo e de outros sugeridos durante as aulas, foi escolhido para realização do processo a proposta realizada por Deborah Mayhewm, sendo ele o mais eficiente para as necessidades do projeto.
+Após a analise desse processo e de outros sugeridos durante as aulas, foi escolhido para realização do processo a proposta realizada por Deborah Mayhew, sendo ele o mais eficiente para as necessidades do projeto.
 
 Essa proposta reune e organiza 3 diferentes atividades para orientar o trabalho do designer em direçao a uma boa solução interativa:
 
