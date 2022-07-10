@@ -49,5 +49,11 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 | 1.0    | 05/07/2022 | Criação do documento  | Maria Eduarda B. | Maria Eduarda M. |
 | 1.1  | 08/07/2022 | Adicionando informações sobre o cronograma | Maria Eduarda M. | Maria Eduarda B. |
 
+## 5. Referências 
+
+> SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br. Acesso em: 9 de julho de 2022;
+
+>2021.2-PMBA. GitHub. Disponível em: https://interacao-humano-computador.github.io/2021.2-PMBA. Acesso em: 9 de julho de 2022.
+
 
 
