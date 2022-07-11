@@ -6,9 +6,11 @@ Nossas reuniões serão ministradas na plataformas do teams e do discord,serão 
 
 ## 2. Disponibilidade dos Integrantes 
 
-Para decidirmos o melhor horário de reuniões foi feito uma planilha na ferramenta do google "[Planilhas Google](https://docs.google.com/spreadsheets/d/1A4q_Jb_ozoCNdBTl0wpBPf6cTzWlvqTAGVMpYUAoils/edit?usp=sharing), nela foi feita uma votação para verificarmos a disponibilidade dos integrantes do grupo.
+Para decidirmos o melhor horário de reuniões foi feito uma planilha (Figura 1) na ferramenta do google "[Planilhas Google](https://docs.google.com/spreadsheets/d/1A4q_Jb_ozoCNdBTl0wpBPf6cTzWlvqTAGVMpYUAoils/edit?usp=sharing), nela foi feita uma votação para verificarmos a disponibilidade dos integrantes do grupo.
 
 ![Grade h](../images/2022-07-10.png)
+
+**Figura 1:** Planilha com a disponibilidade dos integrantes.
 
 ## 3. Histórico de versões
 
