@@ -46,7 +46,7 @@ Portanto, o site escolhido é o Millenium papelaria e presentes. O motivo da esc
 |-----------|------|---------------------------|---------------|---------|
 | 0.1 | 08/07 | Criação da documentação do site selecionado para o projeto | Maria Eduarda B. | Maria Eduarda M. |
 
-### Referências
+## 6. Referências
 
 > 2020.1-BCE. GitHub. Disponível em: https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_1/escolha_site?id=an%c3%a1lise-de-sites. Acesso em: 9 jul. 2022;
 

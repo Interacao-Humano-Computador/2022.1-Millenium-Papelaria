@@ -60,7 +60,7 @@
 |  1.0   | 09/07/2022 |          Documento de metodologia           | Bruno Oliveira | Gian Medeiros |
 |  1.1   | 11/07/2022 | Teste de Usabilidade e Avaliação Heurística | Bruno Oliveira | Gian Medeiros |
 
-## Referências
+## 9. Referências
 
 > Vantagens do Scrum e como aplicá-lo em sua empresa. Disponível em: https://jrmack.com.br/vantagens-do-scrum-e-como-aplica-lo-em-sua-empresa/?gclid=Cj0KCQjwzqSWBhDPARIsAK38LY8T0q6p4bSzWDFHe59IWYX6MqsL9r_mizZAkSlhjSW2x6H78EsVqxoaAgrtEALw_wcB. Acesso em 09/07/2022;
 
