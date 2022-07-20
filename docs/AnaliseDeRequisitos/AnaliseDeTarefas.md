@@ -32,58 +32,41 @@ A **Figura 1** é a legenda para o diagrama da Análise Hierárquica de Tarefas,
 Para realizar a análise de tarefas, foi realizado uma pesquisa dentro do site da Millenium Papelaria e separado algumas atividades que é possível realizar dentro do mesmo. As seguintes tarefas foram retiradas para a análise:
 
 - Realizar Cadastro
-- Realizar Login
+  - Realizar Login
 - Realizar Compras
-- Comentar/Avaliar
-- Consultar Vendedor
-- Meus Pedidos
+  - Avaliar produto
+  - Consultar vendedor
 - Minha Conta
+  - Meus pedidos
 
-### 3.1 Realizar Cadastro
+### 3.1 Realizar Cadastro / Login
 
 <center>
     <img src="../images/analise-de-tarefas/AHTSignUp.png">
 
-    **Figura 2: Diagrama AHT de cadastro de usuário.**
+    **Figura 2: Diagrama AHT de cadastro / login de usuário.**
 
     Fonte: Elaboração Própria.
 
 </center>
 
-|       Objetivos / Operações       |                                                                                                                                                                                      Problemas e recomendações                                                                                                                                                                                       |
-| :-------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|        0. Cadastrar conta         |                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 1. Acessar página de cadastro 1>2 |                                                                                                                                                   Input: Texto "cadastre-se" em vermelho<br>Feedback: será redirecionado para a página de cadastro                                                                                                                                                   |
-| 1.1 Inserir dados do usuário 1+2  | Input: Área intitulada "Informação Pessoal"<br>Feedback: Após inserir os dados do usuário, será redirecionado para a página "Painel Geral" da conta<br> Problema: No cadastro é necessário inserir o CPF do usuário, porém ao analisar o site é percebido que não tem motivos para ser obrigatório o CPF no cadastro <br> Recomendações: Colocar o CPF como opcional, ou retirar a opção no cadastro |
+|       Objetivos / Operações        |                                                                                                                                  Problemas e recomendações                                                                                                                                   |
+| :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         0. Cadastrar conta         |                                                                                                                                                                                                                                                                                              |
+|  1. Acessar página principal 1/2   |                                                                                                                        Input: Página principal da Millenium Papelaria                                                                                                                        |
+| 1.1 Acessar página de cadastro 1>2 |                                                                                         Input: Texto em vermelho escrito "cadastre-se".<br>Feedback: Será redirecionado para página de cadastro.<br>                                                                                         |
+|        1.1.2 Inserir dados         | Input: Formulário de "Informações Pessoais".<br>Problema: No cadastro é necessário inserir o CPF do usuário, porém ao analisar o site é percebido que não tem motivos para ser obrigatório o CPF no cadastro <br> Recomendações: Colocar o CPF como opcional, ou retirar a opção no cadastro |
+|      1.2 Entrar na conta 1>2       |                                                                           Input: Texto em vermelho escrito "Entrar".<br>Feedback: Será redirecionado para página com opção de entrar na conta ou cadastrar conta.                                                                            |
+|    1.2.1 Inserir e-mail e senha    |                                                                                                 Input: Campos de e-mail e senha.<br>Feedback: Será redirecionado para Painel Geral da conta.                                                                                                 |
 
-> **Tabela 1: Tabela AHT de cadastro de usuário.**<br>Fonte: Elaboração Própria.
+> **Tabela 1: Tabela AHT de cadastro / login de usuário.**<br>Fonte: Elaboração Própria.
 
-### 3.2 Realizar Login
-
-<center>
-    <img src="../images/analise-de-tarefas/AHTLogin.png">
-
-    **Figura 3: Diagrama AHT de login de usuário.**
-
-    Fonte: Elaboração Própria.
-
-</center>
-
-|      Objetivos / Operações      |                                                                            Problemas e recomendações                                                                            |
-| :-----------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|        0. Realizar Login        |                                                                                                                                                                                 |
-| 1. Acessar página principal 1>2 |                                                                 Input: Página principal da Millenium Papelaria                                                                  |
-| 1.1 Acessar página de Login 1>2 |                                       Input: "Entre" em vermelho<br>Feedback: Será redirecionado para a página de "login ou cadastre-se"                                        |
-| 1.2 Inserir e-mail e senha 1+2  | Input: Inserir dados de login nos campos "Endereço de e-mail" e "Senha"<br>Feedback: Após inserir os dados do usuário, será redirecionado para a página "Painel Geral" da conta |
-
-> **Tabela 2: Tabela AHT de login de usuário.**<br>Fonte: Elaboração Própria.
-
-### 3.3 Realizar Compras
+### 3.2 Realizar Compras
 
 <center>
     <img src="../images/analise-de-tarefas/AHTCompras.png">
 
-    **Figura 4: Diagrama AHT de compras de produto.**
+    **Figura 3: Diagrama AHT de compras de produto.**
 
     Fonte: Elaboração Própria.
 
@@ -92,92 +75,34 @@ Para realizar a análise de tarefas, foi realizado uma pesquisa dentro do site d
 |      Objetivos / Operações      |                                                                                                                                                                                         Problemas e recomendações                                                                                                                                                                                         |
 | :-----------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |       0. Realizar Compras       |                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 1. Acessar página principal 1>2 |                                                                                                                                                                              Input: Página principal da Millenium Papelaria                                                                                                                                                                               |
-|     1.1 Buscar produto 1>2      |                             Input: Barra de pesquisa ou navegação por categoria<br>Action: Inserir nome do produto na barra de pesquisa.<br>Feedback: Será redirecionado para uma página com produtos da categoria ou nome utilizado na busca<br> Problema: Os produtos não possuem preço na página de busca<br> Recomendações: Mostrar preços dos produtos a serem vendidos.                             |
-|   1.2 Selecionar produto 1>2    | Input: Produto que deseja consultar<br>Feedback: Será redirecionado para a página do produto que foi selecionado.<br> Problema: O produto não possui preço, para consultar o preço do produto é necessário consultar o vendedor via Whatsapp, onde muitos dos links para a consulta estão quebrados.<br> Recomendações: Mostrar preço do produto em sua página sem a necessidade de consultar o vendedor. |
-|     1.3 Comprar Produto 1+2     |                                                    Input: Botão verde "CONSULTE VENDEDOR"<br>Feedback: Será encaminhado para outra página onde será redirecionado para uma conversa de Whatsapp com o vendedor.<br> Problemas: Links quebrados.<br>Recomendações: Realizar modificações para que a venda seja feita pela própria página da papelaria.                                                     |
+| 1. Acessar página principal 1/2 |                                                                                                                                                                              Input: Página principal da Millenium Papelaria                                                                                                                                                                               |
+|       1.1 Buscar produto        |                             Input: Barra de pesquisa ou navegação por categoria<br>Action: Inserir nome do produto na barra de pesquisa.<br>Feedback: Será redirecionado para uma página com produtos da categoria ou nome utilizado na busca<br> Problema: Os produtos não possuem preço na página de busca<br> Recomendações: Mostrar preços dos produtos a serem vendidos.                             |
+|  1.1.2 Selecionar produto 1/2   | Input: Produto que deseja consultar<br>Feedback: Será redirecionado para a página do produto que foi selecionado.<br> Problema: O produto não possui preço, para consultar o preço do produto é necessário consultar o vendedor via Whatsapp, onde muitos dos links para a consulta estão quebrados.<br> Recomendações: Mostrar preço do produto em sua página sem a necessidade de consultar o vendedor. |
+|     1.1.2.1 Comprar Produto     |                                                    Input: Botão verde "CONSULTE VENDEDOR".<br>Feedback: Será encaminhado para outra página onde será redirecionado para uma conversa de Whatsapp com o vendedor.<br> Problemas: Links quebrados.<br>Recomendações: Realizar modificações para que a venda seja feita pela própria página da papelaria.                                                    |
+|     1.1.2.2 Avaliar Produto     |         Input: Inserir comentário, título e nome nos campos descritos.<br>Feedback: Ao realizar um comentário, ele é enviado para aprovação.<br>Problemas: Não é possível saber se o comentário realmente foi feito e aguarda aprovação ou se apenas foi perdido no limbo.<br> Recomendações: Deixar comentários aberto com alguns filtros de palavras impróprias e sem necessidade de aprovação.         |
+|      1.2.1 Comprar Produto      |                                                                           Input: Botão verde "CONSULTE-NOS".<br>Feedback: Será redirecionado para uma conversa do Whatsapp com o vendedor.<br>Problemas Links quebrados.<br>Recomendações: Realizar modificações para que a venda seja feita pela própria página da papelaria.                                                                            |
 
-> **Tabela 3: Tabela AHT de compra de produtos.**<br>Fonte: Elaboração Própria.
+> **Tabela 2: Tabela AHT de compra de produtos.**<br>Fonte: Elaboração Própria.
 
-### 3.4 Comentar/Avaliar
-
-<center>
-    <img src="../images/analise-de-tarefas/AHTComentarios.png">
-
-    **Figura 5: Diagrama AHT de comentários de produto.**
-
-    Fonte: Elaboração Própria.
-
-</center>
-
-|         Objetivos / Operações         |                                                                                                                                                                                 Problemas e recomendações                                                                                                                                                                                 |
-| :-----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          0. Comentar/Avaliar          |                                                                                                                                                                                                                                                                                                                                                                                           |
-|   1. Acessar página do produto 1>2    |                                                                                                                            Input: Produto que deseja consultar.<br>Action: Selecionar algum produto.<br>Feedback: Será redirecionado para a página do produto.                                                                                                                            |
-| 1.1 Acessar página de comentários 1>2 |                                                                                                                           Input: Área intitulada "Comentários".<br>Feedback: Será pedido para realizar cadastro ou realizar login para registrar o comentário.                                                                                                                            |
-|         2. Realizar Login 1/2         |                                                                                                                                                                                                                                                                                                                                                                                           |
-|        2.1 Acessar perfil 1/2         |                                                                                                                                            Input: Texto "identifique-se" em vermelho.<br>Feedback: Será redirecionado para a página de login.                                                                                                                                             |
-|    2.2 Inserir e-mail e senha 1+2     |                                                                                            Input: Inserir dados de login nos campos "Endereço de e-mail" e "Senha"<br>Feedback: Após inserir os dados do usuário, será redirecionado para a página "Comentários" do produto selecionado antes                                                                                             |
-|       3. Realizar avaliação 1>2       | Input: Inserir comentário, título e nome nos campos descritos.<br>Feedback: Ao realizar um comentário, ele é enviado para aprovação.<br>Problemas: Não é possível saber se o comentário realmente foi feito e aguarda aprovação ou se apenas foi perdido no limbo.<br> Recomendações: Deixar comentários aberto com alguns filtros de palavras impróprias e sem necessidade de aprovação. |
-
-> **Tabela 4: Tabela AHT de avaliação de produto.**<br>Fonte: Elaboração Própria.
-
-### 3.5 Consultar vendedor
-
-<center>
-    <img src="../images/analise-de-tarefas/AHTConsulta.png">
-
-    **Figura 6: Diagrama AHT de consultar vendedor do produto.**
-
-    Fonte: Elaboração Própria.
-
-</center>
-
-|             Objetivos / Operações              |                                                                                                                                                              Problemas e recomendações                                                                                                                                                              |
-| :--------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|             0. Consultar vendedor              |                                                                                                                                                                                                                                                                                                                                                     |
-|        1 Acessar página do produto 1>2         |                                                                                                                       Input: Selecionar produto a ser consultado.<br> Feedback: Será redirecionado para a página do produto.                                                                                                                        |
-| 1.1 Acessar página de consulta do vendedor 1+2 | Input: Botão verde "CONSULTE VENDEDOR".<br> Feedback: Será encaminhado para outra página com uma conversa do Whatsapp do vendedor para iniciar uma conversa.<br> Problemas: Links quebrados.<br> Recomendações: Colocar informações, preço do produto, e realizar a venda do produto pela própria página sem a necessidade de consultar o vendedor. |
-
-> **Tabela 5: Tabela AHT de consultar vendedor.**<br>Fonte: Elaboração Própria.
-
-### 3.6 Meus pedidos
-
-<center>
-    <img src="../images/analise-de-tarefas/AHTPedidos.png">
-
-    **Figura 7: Diagrama AHT dos pedidos realizados pelo usuário.**
-
-    Fonte: Elaboração Própria.
-
-</center>
-
-|         Objetivos / Operações         |                                                                                                                     Problemas e recomendações                                                                                                                     |
-| :-----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|            0. Meus pedidos            |                                                                                                                                                                                                                                                                   |
-|         1. Realizar Login 1/2         | Input: "Entre" em vermelho<br>Feedback: Será redirecionado para a página de "login ou cadastre-se".<br>Plano: Caso ja esteja utilizando sua conta clica no texto em vermelho escrito "Minha Conta" e depois na opção "Meus pedidos" no menu de navegação lateral. |
-|    1.2 Inserir e-mail e senha 1/2     |                                          Input: Inserir dados de login nos campos "Endereço de e-mail" e "Senha"<br>Feedback: Após inserir os dados do usuário, será redirecionado para a página "Painel Geral" da conta                                          |
-| 1.3 Acessar página "Meus Pedidos" 1>2 |                                                       Input: Texto "Meus pedidos" na barra de navegação lateral.<br>Feedback: Será redirecionado para a página com todos os pedidos já feito pelo usuário.                                                        |
-
-> **Tabela 6: Tabela AHT de pedidos do usuário.**<br>Fonte: Elaboração Própria.
-
-### 3.7 Minha Conta
+### 3.3 Minha Conta
 
 <center>
     <img src="../images/analise-de-tarefas/AHTConta.png">
 
-    **Figura 8: Diagrama AHT de "Minha Conta"
+    **Figura 4: Diagrama AHT de "Minha Conta"
     Fonte: Elaboração Própria.
 
 </center>
 
-|     Objetivos / Operações      |                                                                                                     Problemas e recomendações                                                                                                     |
-| :----------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|       0. Minha Conta 1>2       |                                                                                                                                                                                                                                   |
-|     1. Realizar Login 1/2      | Input: "Entre" em vermelho<br>Feedback: Será redirecionado para a página de "login ou cadastre-se".<br> Plano: Caso já esteja na conta e queira acessar o campo "Minha Conta", clicar no texto em vermelho escrito "Minha Conta". |
-| 1.2 Inserir e-mail e senha 1+2 |                          Input: Inserir dados de login nos campos "Endereço de e-mail" e "Senha"<br>Feedback: Após inserir os dados do usuário, será redirecionado para a página "Painel Geral" da conta                          |
+|     Objetivos / Operações     |                                                                                                     Problemas e recomendações                                                                                                     |
+| :---------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|        0. Minha Conta         |                                                                                                                                                                                                                                   |
+|       1. Realizar Login       | Input: "Entre" em vermelho<br>Feedback: Será redirecionado para a página de "login ou cadastre-se".<br> Plano: Caso já esteja na conta e queira acessar o campo "Minha Conta", clicar no texto em vermelho escrito "Minha Conta". |
+| 2. Inserir e-mail e senha 1/2 |                          Input: Inserir dados de login nos campos "Endereço de e-mail" e "Senha"<br>Feedback: Após inserir os dados do usuário, será redirecionado para a página "Painel Geral" da conta                          |
+|       2.1 Painel Geral        |                                                                                        Input: Página com informações gerais da conta.<br>                                                                                         |
+|       2.2 Meus Pedidos        |                                             Input: Área intitulada "Meus pedidos" no menu de navageação lateral.<br> Feedback: Será redirecionado para página com pedidos do usuário.                                             |
 
-> **Tabela 7: Tabela AHT de "Minha Conta".**<br>Fonte: Elaboração Própria.
+> **Tabela 3: Tabela AHT de "Minha Conta".**<br>Fonte: Elaboração Própria.
 
 ## 4. Histórico de versão
 
