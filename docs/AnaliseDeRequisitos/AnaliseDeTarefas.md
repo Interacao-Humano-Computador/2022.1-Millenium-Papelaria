@@ -18,11 +18,11 @@ A definição das relações entre os subobjetivos é dada pelo plano que determ
 A **Figura 1** é a legenda para o diagrama da Análise Hierárquica de Tarefas, nela são apresentados os dois tipos de elementos e os símbolos que representam cada forma de relação entre subobjetivos.
 
 <center>
-    <img src="../images/analise-de-tarefas/imagemLegendaAHT.png">
+<img src="../images/analise-de-tarefas/imagemLegendaAHT.png">
 
-    **Figura 1: Legenda do diagrama AHT.**
+**Figura 1: Legenda do diagrama AHT.**
 
-    Fonte: BARBOSA (2021).
+Fonte: BARBOSA (2021).
 </center>
 
 ## 3. Diagrama
