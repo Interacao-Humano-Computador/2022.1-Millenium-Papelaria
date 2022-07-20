@@ -106,11 +106,11 @@ Para realizar a análise de tarefas, foi realizado uma pesquisa dentro do site d
 
 ## 4. Histórico de versão
 
-| Versão | Data  | Descrição                                               | Autor                             | Revisor          |
-| ------ | ----- | ------------------------------------------------------- | --------------------------------- | ---------------- |
-| 0.1    | 19/07 | Desenvolvimento inicial do documento análise de tarefas | Maria Eduarda B. e Bruno Oliveira |                  |
-| 0.2    | 20/07 | Criação dos tópicos 1 e 2                               | Maria Eduarda B.                  |                  |
-| 0.2    | 20/07 | Criação das tabelas e diagramas                         | Bruno Oliveira                    | Maria Eduarda B. |
+| Versão | Data  | Descrição                                               | Autor                             | Revisor |
+| ------ | ----- | ------------------------------------------------------- | --------------------------------- | ------- |
+| 0.1    | 19/07 | Desenvolvimento inicial do documento análise de tarefas | Maria Eduarda B. e Bruno Oliveira | Arthur  |
+| 0.2    | 20/07 | Criação dos tópicos 1 e 2                               | Maria Eduarda B.                  | Arthur  |
+| 0.2    | 20/07 | Criação das tabelas e diagramas                         | Bruno Oliveira                    | Arthur  |
 
 ## 5. Referências
 
