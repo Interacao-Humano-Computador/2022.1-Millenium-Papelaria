@@ -25,7 +25,7 @@ Essa proposta reune e organiza 3 diferentes atividades para orientar o trabalho 
 Na figura 1 é mostrado as três fases desse processo interativo.
 
 <center>
-<img src="../images/processo-de-design/processo-de-design.png">
+<img src="../../images/processo-de-design/processo-de-design.png">
 
 *Figura 1: Engenharia de Usabilidade de Mayhew*.
 </center>
