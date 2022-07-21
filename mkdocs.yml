@@ -17,4 +17,8 @@ nav:
     - Metodologias: 'planejamento/metodologias.md'
     - Cronograma: 'planejamento/cronograma.md'    
     - Ferramentas Utilizadas: 'planejamento/ferramentas.md'
+  - Análise de Requisitos:
+    - Perfil de Usuário: 'AnaliseDeRequisitos/PerfilDeUsuario.md'
+    - Personas: 'AnaliseDeRequisitos/Personas.md'
+    - Análise de Tarefas: 'AnaliseDeRequisitos/AnaliseDeTarefas.md'
   - Apresentações: apresentacoes.md
