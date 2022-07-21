@@ -14,37 +14,37 @@ O questionário obteve 30 respostas e ficou disponível do período de 18/07/202
 
 Em relação às perguntas temos que na primeira pergunta (***1 - Qual sua faixa etaria***), temos suas respostas na representação gráfica presente na ***Figura 1***. A partir do questionário notamos que cerca de metade da amostra tem entre 18 a 20 anos e nenhum dos participantes é menor de idade.
 
-![P1](../images/perfil-de-usuario/faixa-etaria.jpeg)
+![P1](../../images/perfil-de-usuario/faixa-etaria.jpeg)
 
 **Figura 1: Gráfico de respostas para faixa etária**
 
 Agora sobre a segunda pergunta (***2 - Você já utilizou sites online para realizar compras?***), temos suas respostas na representação gráfica presente na ***Figura 2***. Assim observamos que somente um dos participantes nunca utilizou sites online para realizar compras, com isso vemos a importância e necessidade de sites onlines na realização de compras.
 
-![P2](../images/perfil-de-usuario/ja-comprou-online.jpeg)
+![P2](../../images/perfil-de-usuario/ja-comprou-online.jpeg)
 
 **Figura 2: Gráfico de respostas para utilização de sites online para compras**
 
 Na terceira pergunta (***3 - Qual dispositivo você mais utiliza para compras online?***), temos suas respostas na representação gráfica presente na ***Figura 3***. Podemos observar a utilização de somente dois tipos de dispositivos distintos utilizados para realizar compras online (celular e computador/notebook), onde o uso de computador/notebook é praticamente o dobro da quantidade de usos de celulares.
 
-![P3](../images/perfil-de-usuario/dispositivo-compra.jpeg)
+![P3](../../images/perfil-de-usuario/dispositivo-compra.jpeg)
 
 **Figura 3: Gráfico de respostas para qual dispositivo utilizado para compras online**
 
 Já na quarta pergunta (***4 - Com que frequência você realiza compras online?***), temos suas respostas na representação gráfica presente na ***Figura 4***. Aqui observamos que a frequência de compras online pelos participantes do formulário é bem frequente, onde cerca de 80% dos participantes realiza compras online (*sempre ou quase sempre*).
 
-![P4](../images/perfil-de-usuario/frequencia.jpeg)
+![P4](../../images/perfil-de-usuario/frequencia.jpeg)
 
 **Figura 4: Gráfico de respostas para qual a frequência de compras online**
 
 Na quinta pergunta temos (***5 - Você já realizou compras em papelarias pela internet?***), temos suas respostas na representação gráfica presente na ***Figura 5***. Com essas respostas observamos que a quantidade de usuários que realizaram compras em papelarias online são baixas, somente 27,6% dos usuários já realizaram esse tipo de compra.
 
-![P5](../images/perfil-de-usuario/compras-em-papelaria.jpeg)
+![P5](../../images/perfil-de-usuario/compras-em-papelaria.jpeg)
 
 **Figura 5: Gráfico de respostas para compras em papelarias pela internet**
 
 Agora na sexta e última pergunta (***6 - O quão você concorda com a possibilidade de realizar compras em papelarias online?***), temos suas respostas na representação gráfica presente na ***Figura 6***. Nesta parte podemos observar que grande parte dos usuários (55,1%) concordam total ou parcialmente com a possibilidade de realizar compras em papelarias online. Porém é importante também salientar que existe uma taxa de 37,9% dos usuários que são indiferentes a essa possibilidade, o que pode demonstrar um certo desinteresse nesse setor. Já em questão de discordar totalmente da possibilidade temos uma pequena faixa de somente 6,9% dos usuários.
 
-![P6](../images/perfil-de-usuario/compraria-em-papelarias.jpeg)
+![P6](../../images/perfil-de-usuario/compraria-em-papelarias.jpeg)
 
 **Figura 6: Gráfico de respostas para a possibilidade de compras em papelarias online**
 
