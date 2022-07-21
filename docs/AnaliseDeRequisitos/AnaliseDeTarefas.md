@@ -19,7 +19,7 @@ A definição das relações entre os subobjetivos é dada pelo plano que determ
 A **Figura 1** é a legenda para o diagrama da Análise Hierárquica de Tarefas, nela são apresentados os dois tipos de elementos e os símbolos que representam cada forma de relação entre subobjetivos.
 
 <center>
-<img src="../images/analise-de-tarefas/imagemLegendaAHT.png">
+<img src="../../images/analise-de-tarefas/imagemLegendaAHT.png">
 
 **Figura 1: Legenda do diagrama AHT.**
 
@@ -42,7 +42,7 @@ Para realizar a análise de tarefas, foi realizado uma pesquisa dentro do site d
 ### 3.1 Realizar Cadastro / Login
 
 <center>
-    <img src="../images/analise-de-tarefas/AHTSignUp.png">
+    <img src="../../images/analise-de-tarefas/AHTSignUp.png">
 
     **Figura 2: Diagrama AHT de cadastro / login de usuário.**
 
@@ -64,7 +64,7 @@ Para realizar a análise de tarefas, foi realizado uma pesquisa dentro do site d
 ### 3.2 Realizar Compras
 
 <center>
-    <img src="../images/analise-de-tarefas/AHTCompras.png">
+    <img src="../../images/analise-de-tarefas/AHTCompras.png">
 
     **Figura 3: Diagrama AHT de compras de produto.**
 
@@ -87,7 +87,7 @@ Para realizar a análise de tarefas, foi realizado uma pesquisa dentro do site d
 ### 3.3 Minha Conta
 
 <center>
-    <img src="../images/analise-de-tarefas/AHTConta.png">
+    <img src="../../images/analise-de-tarefas/AHTConta.png">
 
     **Figura 4: Diagrama AHT de "Minha Conta"
     Fonte: Elaboração Própria.
