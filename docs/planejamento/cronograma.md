@@ -96,7 +96,7 @@ Logo abaixo se encontra as tabelas de 1 a 9 do cronograma geral, dos pontos de c
 | 20/07/2022 | organização e separação das responsabilidades | Todos | Todos |
 | 16/08/2022 | Entrega definitiva dos artefatos | Todos | Todos |
 | 16/08/2022 | Entrega do artefato Relato dos resultados do Story Board e da Análise tarefas| Ingrid e Gian | Arthur e Bruno |
-| 16/08/2022 | Entrega do artefato Planejamento da Avaliação do Protótipo de Papel Maria Eduarda M. e Maria Eduarda B.| Ingrid e Gian |
+| 16/08/2022 | Entrega do artefato Planejamento da Avaliação do Protótipo de Papel |Maria Eduarda M. e Maria Eduarda B.| Ingrid e Gian |
 | 16/08/2022 | Entrega do artefato Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Arthur e Bruno | Maria Eduarda M. e Maria Eduarda B. |
 | 17/08/2022 | Revisão e entrega da gravação | Todos | Todos |
 | 17/08/2022 | Envio | Arthur | Todos |
