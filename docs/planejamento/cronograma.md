@@ -42,12 +42,68 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 | 09/07/2022 | Revisão e entrega da gravação | Todos | Todos |
 | 10/07/2022 | Envio | Arthur | Todos |
 
+## 4. Cronograma do 2° Ponto de Controle
+| Data | Atividade | Responsáveis | Revisores
+| ---------- | ------ | -----------------------| --------------------------------------- |
+| 20/07/2022 | Entrega do artefato Perfil de Usuário | Arthur e Gian | Ingrid e Maria Eduarda Marques |
+| 20/07/2022 | Entrega do artefato Personas | Maria Eduarda Marques e Ingrid | Bruno e Maria Eduarda Barbosa |
+| 20/07/2022 | Entrega do artefato Análise de Tarefas | Bruno e Maria Eduarda Barbosa | Arthur e Gian |
+| 20/07/2022 | Revisão e entrega da gravação | Todos | Todos |
+| 21/07/2022 | Envio | Arthur | Todos |
+
+## 5. Cronograma do 3° Ponto de Controle
+| Data | Atividade | Responsáveis | Revisores
+| ---------- | ------ | -----------------------| --------------------------------------- |
+| 30/07/2022 | Entrega do artefato Princípios Gerais do Projeto | Arthur e Gian | Maria Marques, Bruno |
+| 30/07/2022 | Entrega do artefato Metas de usabilidade | Maria Marques, Bruno | Maria Barbosa , Ingrid |
+| 30/07/2022 | Entrega do artefato Guia de Estilo| Maria Barbosa , Ingrid | Arthur e Gian |
+| 31/08/2022 | Revisão e entrega da gravação | Todos | Todos |
+| 01/08/2022 | Envio | Arthur | Todos |
+
+## 6. Cronograma do 4° Ponto de Controle
+| Data | Atividade | Responsáveis | Revisores
+| ---------- | ------ | -----------------------| --------------------------------------- |
+| 09/08/2022 | Entrega do artefato Planejamento da Avaliação do Storyboard | Maria Marques | Ingrid , Gian |
+| 09/08/2022 | Entrega do artefato Planejamento do relato dos resultados da avaliação do Storyboard | Ingrid , Gian | Maria Marques |
+| 09/08/2022 | Entrega do artefato Planejamento da Avaliação do Análise de tarefas | Maria Barbosa | Arthur, Bruno |
+| 09/08/2022 | Entrega do artefato Planejamento do relato dos resultados da avaliação do Análise de tarefas | Arthur, Bruno | Maria Barbosa |
+| 09/08/2022 | Revisão e entrega da gravação | Todos | Todos |
+| 11/08/2022 | Envio | Arthur | Todos |
+
+## 7. Cronograma do 5° Ponto de Controle
+| Data | Atividade | Responsáveis | Revisores
+| ---------- | ------ | -----------------------| --------------------------------------- |
+| 15/08/2022 | Entrega do artefato Relato dos resultados do Story Board e da Análise de tarefas | Ingrid, Gian | Maria Marques e Maria Barbosa |
+| 15/08/2022 | Entrega do artefato Planejamento da Avaliação do Protótipo de Papel | Maria Marques e Maria Barbosa | Arthur, Bruno  |
+| 15/08/2022 | Entrega do artefato Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Arthur, Bruno | Ingrid, Gian |
+| 16/08/2022 | Revisão e entrega da gravação | Todos | Todos |
+| 17/08/2022 | Envio | Arthur | Todos |
+
+## 8. Cronograma do 6° Ponto de Controle
+| Data | Atividade | Responsáveis | Revisores
+| ---------- | ------ | -----------------------| --------------------------------------- |
+| 20/08/2022 | Verificação dos artefatos | Todos os integrantes | Todos os integrantes |
+| 21/08/2022 | Revisão e entrega da gravação | Todos | Todos |
+| 22/08/2022 | Envio | Arthur | Todos |
+
+## 9. Cronograma do 7° Ponto de Controle
+| Data | Atividade | Responsáveis | Revisores
+| ---------- | ------ | -----------------------| --------------------------------------- |
+| 03/09/2022 | Entrega do artefato Relato dos resultados do Protótipo de Papel | Maria Marques e Maria Barbosa | Arthur, Bruno |
+| 03/09/2022 | Entrega do artefato Planejamento da Avaliação do protótipo de alta fidelidade | Ingrid, Gian | Maria Marques e Maria Barbosa |
+| 03/09/2022 | Entrega do artefato Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Arthur, Bruno | Ingrid, Gian |
+| 04/09/2022 | Revisão e entrega da gravação | Todos | Todos |
+| 05/09/2022 | Envio | Arthur | Todos |
+
+
+
 ## 4. Histórico de versões
 
 | Versão | Data       | Descrição             | Autor           | Revisor |
 | ------ | ---------- | --------------------- | ------------    |---------|
 | 1.0    | 05/07/2022 | Criação do documento  | Maria Eduarda B. | Maria Eduarda M. |
-| 1.1  | 08/07/2022 | Adicionando informações sobre o cronograma | Maria Eduarda M. | Maria Eduarda B. |
+| 1.1    | 08/07/2022 | Adicionando informações sobre o cronograma | Maria Eduarda M. | Maria Eduarda B. |
+| 1.2    | 21/07/2022 | Adição de todos os pontos de controle | Arthur Henrique | Maria Eduarda M. |
 
 ## 5. Referências 
 
