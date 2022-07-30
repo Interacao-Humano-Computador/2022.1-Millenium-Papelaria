@@ -20,6 +20,7 @@ nav:
   - Análise de Requisitos:
     - Perfil de Usuário: 'AnaliseDeRequisitos/PerfilDeUsuario.md'
     - Personas: 'AnaliseDeRequisitos/Personas.md'
+    - Cenários: 'AnaliseDeRequisitos/cenarios.md'
     - Análise de Tarefas: 'AnaliseDeRequisitos/AnaliseDeTarefas.md'
     - Princípios Gerias: 'AnaliseDeRequisitos/principiosGerais.md'
     - Metas de Usabilidade: 'AnaliseDeRequisitos/metasUsabilidade.md'
