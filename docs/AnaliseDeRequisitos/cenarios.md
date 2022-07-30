@@ -30,6 +30,7 @@ Miguel, um exímio biomédico de 56 anos, sabendo que o aniversário de seu neto
 </div>
 
 ## 4. Conclusão
+Através dos cenários aqui representados é possível ter um bom conhecimento e preparo a respeito dos problemas retratados no sistema e pensar em possíveis soluções, foram apresentados problemas tanto para as personas primárias quanto para as anti personas.
 
 ## 5. Referências Bibliográficas
 >Interação Humano-Computador e Experiência do Usuário. Disponível em: https://drive.google.com/file/d/1rXE55q_HNG8pSYfUsZmW12IpU8nTX0Tr/view
