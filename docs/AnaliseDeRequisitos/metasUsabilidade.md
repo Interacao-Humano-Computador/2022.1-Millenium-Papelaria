@@ -41,7 +41,7 @@ A capacidade de memorização refere-se à facilidade de lembrar como utilizar u
 
 Para realizar a definição das metas foram levantadas questões para cada uma das metas.
 
-### **3.1 Eficácia: O sistema server para seu propósito inicial?**
+### **3.1 Eficácia: O sistema serve para o seu propósito inicial?**
 
     - O sistema deve permitir aos usuários acesso ao catálogo de produtos, comprar e avaliar um produto.
 
