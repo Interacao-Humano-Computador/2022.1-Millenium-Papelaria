@@ -43,31 +43,31 @@ Para realizar a definição das metas foram levantadas questões para cada uma d
 
 ### **3.1 Eficácia: O sistema serve para o seu propósito inicial?**
 
-    - O sistema deve permitir aos usuários acesso ao catálogo de produtos, comprar e avaliar um produto.
+- O sistema deve permitir aos usuários acesso ao catálogo de produtos, comprar e avaliar um produto.
 
 ### **3.2 Eficiência: O sistema demora quanto tempo para realizar uma tarefa específica?**
 
-    - O sistema deve atender as necessidades do usuário de forma fluída, ágil e eficiente.
+- O sistema deve atender as necessidades do usuário de forma fluída, ágil e eficiente.
 
 ### **3.3 Segurança: O sistema previne o usuário de situações de risco?**
 
-    - O sistema deve previnir o usuário de cometer erros.
-    - O sistema deve previnir o usuário de ações indesejáveis.
-    - O sistema deve indicar ao usuário maneiras de correções em casos de erros graves.
+- O sistema deve previnir o usuário de cometer erros.
+- O sistema deve previnir o usuário de ações indesejáveis.
+- O sistema deve indicar ao usuário maneiras de correções em casos de erros graves.
 
 ### **3.4 Utilidade: O sistema entrega ao usuário o que é oferecido?**
 
-    - O sistema deve melhorar a maneira como as compras são realizadas.
+- O sistema deve melhorar a maneira como as compras são realizadas.
 
 ### **3.5 Aprendizado: O sistema apresenta uma fácil utilização?**
 
-    - O usuário é capaz de aprender a navegar pela interface sem a necessidade de ajuda?
-    - O sistema deve disponibilizar menus de ajuda para o usuário.
+- O usuário é capaz de aprender a navegar pela interface sem a necessidade de ajuda?
+- O sistema deve disponibilizar menus de ajuda para o usuário.
 
 ### **3.6 Memorização: O sistema apresenta uma interface intuitiva?**
 
-    - O sistema deve ser capaz de apresentar uma interface objetiva.
-    - O sistema deve ser de fácil compreensão.
+- O sistema deve ser capaz de apresentar uma interface objetiva.
+- O sistema deve ser de fácil compreensão.
 
 ## 4. Histórico de versões
 
