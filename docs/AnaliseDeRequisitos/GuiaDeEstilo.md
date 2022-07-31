@@ -24,7 +24,7 @@ Superior marcada em vermelho na figura 1, contendo o Menu de informações fixas
 
 ### Elementos
 
-A duas áreas principais são compostas pelos seguintes elementos numerados na figura 2:
+A duas áreas principais são compostas pelos seguintes elementos numerados na figura 3:
 
 1. Menu principal de comunicação e informações
 2. Logo da papelaria, barra de pesquisa, login/cadastro 
@@ -32,6 +32,7 @@ A duas áreas principais são compostas pelos seguintes elementos numerados na f
 4. Detalhes de uma possível compra
 5. Produtos de uma categoria escolhida pelo usuário
 6. Botão de contato para whatsApp
+7. Rodapé com informações presente na figura 2
    
 ![iamge3](../images/guiaDeEstilo/lalala.png)
 <center>Figura 3 - Elementos principais Millenium Papelaria</center>
@@ -47,7 +48,7 @@ Apesar das 5 variações de fonte todas foram pensadas para formar o melhor desi
 
 ### Cores
 
-As cores principais escolhidas para o site são vermelho(#ff0000) e três tons de azul(#083c7c, #041b38, #1064ca) apresentadas na figura 3 que são as cores principais apesar do fundo branco e dos detalhes em preto. O vermelho escolhido é uma cor que causa excitação e chama a atenção do cliente, já o azul passa segurança dois aspectos que grande importancia para cativar um usuário que possa querer fazer compras em um site de artigos de papelarias. 
+As cores principais escolhidas para o site são vermelho(#ff0000) e três tons de azul(#083c7c, #041b38, #1064ca) apresentadas na figura 4 que são as cores principais apesar do fundo branco e dos detalhes em preto. O vermelho escolhido é uma cor que causa excitação e chama a atenção do cliente, já o azul passa segurança dois aspectos que grande importancia para cativar um usuário que possa querer fazer compras em um site de artigos de papelarias. 
 
 ![image4](../images/guiaDeEstilo/cores.png)
 <center>Figura 4 - Paleta de cores</center>
@@ -77,4 +78,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição             | Autor           | Revisor |
 | ------ | ---------- | --------------------- | ------------    |---------|
-|   0.1  | 30/07/2022 | Criação do documento  | Ingrid Carvalho |  |
+|   0.1  | 30/07/2022 | Criação do documento  | Ingrid Carvalho |  Arthur e Gian|
