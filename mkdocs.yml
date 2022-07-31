@@ -21,4 +21,5 @@ nav:
     - Perfil de Usuário: 'AnaliseDeRequisitos/PerfilDeUsuario.md'
     - Personas: 'AnaliseDeRequisitos/Personas.md'
     - Análise de Tarefas: 'AnaliseDeRequisitos/AnaliseDeTarefas.md'
+    - Guia de Estilo: 'AnaliseDeRequisitos/GuiaDeEstilo.md'
   - Apresentações: apresentacoes.md
